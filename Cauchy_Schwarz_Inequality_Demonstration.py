@@ -5,7 +5,8 @@ a = np.random.randn(15)
 b = np.random.randn(15)
 c = np.random.randn(1) * a  # Random scalar
 
-# Dot products (I will assign the 'aTb' etc. variables rather than 'a_dot' or something, as dot product's notation is this.)
+# Dot products (I will assign the 'aTb' etc. variables rather than 'a_dot' or something,
+# as dot product's notation is this.)
 
 aTb = np.dot(a,b)
 aTc = np.dot(a,c)
