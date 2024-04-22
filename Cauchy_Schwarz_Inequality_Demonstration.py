@@ -18,6 +18,3 @@ print(f"{np.abs(aTb):.5f}, {np.linalg.norm(a)*np.linalg.norm(b):.5f}") # Inequal
 
 print(f"{np.abs(aTc):.10f}, {np.linalg.norm(a)*np.linalg.norm(c):.10f}") # Equality
 # For equality, the numbers are the same because A and C form a linearly dependent set.
-
-
-#### Credit goes to Mike x Cohen
